@@ -1,0 +1,10 @@
+Consider the CIFAR10 dataset. Download the dataset and Display 10 image, one each
+from the 10 different classes. In the following classification problem divide the dataset
+into : train, validation and test set. (choose your own ratio )
+  a. Create a simple ResNet from scratch using pytorch/keras to perform a 5 class
+  classification from the CIFAR10 dataset.
+  b. Plot the loss and accuracy vs epoch for the train set, validation and test set.
+  Visualize the output from each layer of the ResNet.
+  c. Modify the network architecture such as number of layers, number of neurons in
+  the layers or the activation function to improve the test accuracy. Repeat step (b)
+  for the new neural network.
